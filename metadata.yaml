@@ -1,0 +1,10 @@
+name: astrbot_plugin_steps
+desc: 步数修改插件，支持修改小米运动/Zepp Life的步数。
+help: |
+  【基础指令】
+  - /步数 邮箱 密码 步数 ：修改指定账户的步数
+  - /步数 邮箱 密码 ：使用默认步数修改
+  - /步数帮助 ：查看详细使用说明
+version: v1.0.0
+author: 柠柚
+repo: https://github.com/ningyou8023/astrbot_plugin_steps

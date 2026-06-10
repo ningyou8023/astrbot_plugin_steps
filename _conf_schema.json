@@ -1,0 +1,26 @@
+{
+  "api_url": {
+    "description": "运动助手API接口地址",
+    "type": "string",
+    "hint": "填写运动助手API的完整URL地址",
+    "default": "https://api.nycnm.cn/api/v2/zepplife"
+  },
+  "api_key": {
+    "description": "API密钥",
+    "type": "string",
+    "hint": "访问API所需的密钥（如果API需要的话）",
+    "default": ""
+  },
+  "timeout": {
+    "description": "请求超时(秒)",
+    "type": "int",
+    "hint": "接口请求的超时时间",
+    "default": 10
+  },
+  "default_steps": {
+    "description": "默认步数",
+    "type": "int",
+    "hint": "当用户不指定步数时使用的默认值",
+    "default": 20000
+  }
+}
