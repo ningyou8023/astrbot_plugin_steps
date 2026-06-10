@@ -41,7 +41,7 @@
 
 插件支持以下配置项：
 
-- `api_url`: API接口地址（默认：https://api.nycnm.cn/api/v2/zepplife）
+- `api_url`: API接口地址（默认：https://api.nycnm.cn/api/v2/zepplife ）
 - `api_key`: API密钥（如果需要的话）
 - `timeout`: 请求超时时间（默认：10秒）
 - `default_steps`: 默认步数（默认：20000）
